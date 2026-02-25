@@ -5,7 +5,8 @@ include $(TOP)/configure/CONFIG
 #----------------------------------------
 # Build the IOC application
 
-LIBRARY_IOC += phytronAxisMotor
+LIBRARY_IOC_DEFAULT = phytronAxisMotor
+LIBRARY_IOC_vxWorks = -nil-
 
 DBD += phytronSupport.dbd
 
