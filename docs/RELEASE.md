@@ -1,5 +1,13 @@
 # motorPhytron Releases
 
+## __R1-3-1 (2026-02-26)__
+R1-3-1 is a release based on the master branch.
+
+### Changes since R1-3
+
+#### Bug fixes
+* Pull request [#15](https://github.com/epics-motor/motorPhytron/pull/15): Don't build phytron support on VxWorks
+
 ## __R1-3 (2026-01-15)__
 R1-3 is a release based on the master branch.
 
